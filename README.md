@@ -1,0 +1,1 @@
+# T2.--isc24_optimizacion_eficiencia_act_02-Codificaci-n_Gray_para_comunicaciones
